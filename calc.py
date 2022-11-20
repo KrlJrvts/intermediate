@@ -22,6 +22,7 @@ def wrong_op():
 
 
 if __name__ == "__main__":
+    # execution starts from here
     ops = {"+": add,
            "-": sub,
            "/": div,

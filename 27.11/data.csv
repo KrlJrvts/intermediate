@@ -1,6 +1,11 @@
-cat,dog,rat
-audi,BMW,lada
-13,18,48
-cat,dog,rat
-audi,BMW,lada
-13,18,48
+car;time;place
+BMW;10;5
+Audi;10;2
+BMW;10;5
+Audi;10;3
+Porsche;10;4
+BMW;20;3
+Porsche;20;5
+Audi;15;1
+BMW;20;1
+Audi;10;2
